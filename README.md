@@ -1,4 +1,4 @@
-# InpageToUnicode
+# InpageFileToUnicode
 
 Following script can be used to convert your inpage file's text into unicode text
 
